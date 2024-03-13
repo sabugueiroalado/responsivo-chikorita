@@ -28,7 +28,7 @@ Este projeto é uma prática de HTML e CSS em desenvolvimento web! Aprendizagem 
 
 ## ℹ️ Sobre o Projeto
 
-O Estilização Chikorita é uma aplicação web simples e interativa, uma versão mais completa e responsiva que a versão anterior (Estilização Chikorita) que apresenta ao usuário um dos meus pokemons favoritos, uma breve apresentação de suas caracteríticas físicas, comportamentais, habilidades e suas evoluções.  Foi desenvolvido com as seguintes tecnologias:
+O Responsivo Chikorita é uma aplicação web simples e interativa, uma versão mais completa e responsiva que a versão anterior (Estilização Chikorita) que apresenta ao usuário um dos meus pokemons favoritos, uma breve apresentação de suas caracteríticas físicas, comportamentais, habilidades e suas evoluções.  Foi desenvolvido com as seguintes tecnologias:
 
 - Front-end: HTML, CSS
 
