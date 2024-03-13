@@ -2,8 +2,13 @@
 
 Este projeto é uma prática de HTML e CSS em desenvolvimento web! Aprendizagem por meio do programa ONE-Oracle! Aqui você encontrará informações sobre o projeto, as ferramentas utilizadas e instruções sobre como executá-lo em seu ambiente local.
 
+**Barra de navegação**
 ![image](https://github.com/sabugueiroalado/responsivo-chikorita/assets/128103445/5cd6e662-b095-467e-9cfd-52f0acd410bc)
+**Vizualização inicial**
 ![image](https://github.com/sabugueiroalado/responsivo-chikorita/assets/128103445/71f06c0a-b60d-483c-81df-7c451722fca0)
+**Segunda Visualização**
+![image](https://github.com/sabugueiroalado/responsivo-chikorita/assets/128103445/bb19be6b-4329-45f7-aab0-dee96b964f32)
+
 
 
 
@@ -13,7 +18,7 @@ Este projeto é uma prática de HTML e CSS em desenvolvimento web! Aprendizagem 
 
 ## ℹ️ Sobre o Projeto
 
-O Estilização Chikorita é uma aplicação web simples e interativa, que apresenta ao usuário um dos meus pokemons favoritos, uma breve apresentação de suas caracteríticas físicas e suas evoluções.  Foi desenvolvido com as seguintes tecnologias:
+O Estilização Chikorita é uma aplicação web simples e interativa, uma versão mais completa e responsiva que a versão anterior (Estilização Chikorita) que apresenta ao usuário um dos meus pokemons favoritos, uma breve apresentação de suas caracteríticas físicas, comportamentais, habilidades e suas evoluções.  Foi desenvolvido com as seguintes tecnologias:
 
 - Front-end: HTML, CSS
 
