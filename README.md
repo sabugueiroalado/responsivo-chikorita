@@ -8,7 +8,7 @@ Este projeto é uma prática de HTML e CSS em desenvolvimento web! Aprendizagem 
 ![image](https://github.com/sabugueiroalado/responsivo-chikorita/assets/128103445/5cd6e662-b095-467e-9cfd-52f0acd410bc)
 <br>
 <br>
-🌱**Vizualização inicial**🌱
+🌱**Visualização inicial**🌱
 <br>
 <br>
 ![image](https://github.com/sabugueiroalado/responsivo-chikorita/assets/128103445/71f06c0a-b60d-483c-81df-7c451722fca0)
